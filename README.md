@@ -2,7 +2,8 @@ The project has been written to learn Spring Boot tools and technologies using A
 The project consists of three microservices named jobms, companyms and reviewms and one api gateway microservice.
 Source:
 - Part 1: https://www.youtube.com/watch?v=BLlEgtp2_i8
-- Part 2: https://www.youtube.com/watch?v=EeQRAxXWDF4  
+- Part 2: https://www.youtube.com/watch?v=EeQRAxXWDF4
+
 I would like to thank Faisal Memon for the awesome content!
 
 Installation:
