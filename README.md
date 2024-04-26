@@ -8,7 +8,7 @@ I would like to thank Faisal Memon for the awesome content!
 Installation:
 - Dockerize every microservice using the maven wrapper "./mvnw spring-boot:build-image "-Dspring-boot.build-image.imageName=docker-username/image-name". 
 - After that push the docker images to Docker Hub. "docker push docker-username/image-name"
-- Update image names in docker-compose file as <image-name> for every microservice.
+- Update image names in docker-compose file as image-name for every microservice.
 - Run in the detach mode. docker-compose up -d
 - Set up company, job and review databases using pgAdmin.
 - Run docker-compose up -d again.
